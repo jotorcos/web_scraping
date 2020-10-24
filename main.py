@@ -2,7 +2,11 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-webdriver_path = r'C:\Users\obardes\Documents\chromedriver_win32\chromedriver'
+import platform
+if (platform.system() == 'Windows'):
+    webdriver_path = r'C:\Users\obardes\Documents\chromedriver_win32\chromedriver'
+else:
+    webdriver_path = r'/usr/local/bin/chromedriver'
 
 def get_billboard(pub_url):
     '''
