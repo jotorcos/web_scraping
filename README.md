@@ -16,7 +16,7 @@ movies_scrape/movies_df.csv: fitxer csv checkpoint.
 
 ## Qüestions de l'enunciat de la pràctica
 
-1. **Context. Explicar en quin context s'ha recol・lectat la informacio. Explicar per que el lloc web triat proporciona aquesta informació**
+1. **Context. Explicar en quin context s'ha recol・lectat la informació. Explicar per que el lloc web triat proporciona aquesta informació**
 
 L’objectiu de la nostre pràctica és poder recollir programàticament un llistat de les pel·lícules disponibles en la cartellera de les sales de l’estat espanyol. Com a font de dades triem la secció de cartellera del portal FilmAffinity (www.filmaffinity.com) 
 
@@ -76,6 +76,10 @@ Cal remarcar de nou que aquest portal no disposa de cap API per la qual cosa usa
 
 8. **Llicència. Seleccionar una d'aquestes llicències pel dataset resultant i explicar el motiu de la seva selecció:**
 
+La llicència escollida pel dataset és CC0 (Public Domain) pels següents motius. Els autors del dataset no requerim ser mencionats ni volem haver d'autoritzar
+especificament el seu ús. Per tant, com que aquest dataset no ha de comportar mai cap obligació legal per a qui l'utilitzi i ha de ser utilitzat lliurement per 
+tothom que ho vulgui, CC0 ens sembla l'opció més adequada.
+
 9. **Codi. Adjuntar el codi amb el qual s'ha generat el dataset, preferiblement en Python o, alternativament, en R.**
 
 El codi Python per a generar aquest dataset està disponible a:
@@ -83,3 +87,9 @@ El codi Python per a generar aquest dataset està disponible a:
 https://github.com/jotorcos/web_scraping
 
 10. **Dataset. Publicar el dataset en format CSV a Zenodo (obtencio del DOI)**
+
+El dataset resultant s'ha publicat a Zenodo amb el següent DOI:
+
+10.5281/zenodo.4165158
+
+En el dataset els autors apareixen com jotorcos i obr-uoc, usant els usuaris guthub dels integrants de les pràctiques.
