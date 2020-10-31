@@ -30,6 +30,8 @@ Aquest portal no diposa de cap API de la qual en tinguem coneixement, de forma q
 
 Aquest dataset està composat pel llistat les pel·lícules actualment en cartellera, incloent alguns dels paràmetres més descriptius de cada pel·lícula com ara el títol, l’any,la durada i el país. També considerem interessant tenir la capacitat d'endreçar les pel·lícules de la cartellera en base a la seva valoració, per la qual cosa el dataset també recull el rating proporcionat per FilmAffinity.
 
+Aquest llistat a dia 31-10-2020 està composat per 64 títols.
+
 4. **Representació grafica. Presentar una imatge o esquema que identifiqui el dataset visualment**
 
 Com a esquema del dataset es llista a continuació les 5 primeres entrades, juntament amb la capcelera:
