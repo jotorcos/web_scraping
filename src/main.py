@@ -141,7 +141,7 @@ for link in links:
         link, movies_df, movies_col)
     error_count += error_retrieved
 
-    # save to csv every 50 urls
+    # save to csv every 5 urls
     if save_state % 5 == 1:
         # Write to CSVs
         movies_df.to_csv(r'../movies_scrape/movies_df.csv')
