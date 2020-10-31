@@ -121,9 +121,7 @@ def get_billboard_links(pub_url):
 url = "https://www.filmaffinity.com/es/cat_new_th_es.html"
 
 # Get profile links
-links_original = get_billboard_links(url)
-
-links = links_original[:7]
+links = get_billboard_links(url)
 
 movies_col = ["title", "year", "duration", "country", "rating"]
 
