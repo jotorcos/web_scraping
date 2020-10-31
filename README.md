@@ -35,12 +35,19 @@ Aquest dataset està composat pel llistat les pel·lícules actualment en cartel
 Com a esquema del dataset es llista a continuació les 5 primeres entrades, juntament amb la capcelera:
 
 ,title,year,duration,country,rating
+
 0,Cars 3,2017,109 min., Estados Unidos,"5,9"
+
 1,Trolls World Tour aka,,2020,90 min.,"5,6"
+
 2,The Secret: Dare to Dream,2020,107 min., Estados Unidos,"4,8"
+
 3,Divorce Club,2020,108 min., Francia,None
+
 4,Hope Gap,2019,100 min., Reino Unido,"6,2"
+
 5,Promare: Puromea,2019,111 min., Japón,"6,6"
+
 6,Tuntematon mestari aka,,2018,94 min.,"7,1"
 
 5. **Contingut. Explicar els camps que inclou el dataset, el període de temps de les dades i com s'ha recollit.**
