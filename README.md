@@ -18,7 +18,7 @@ movies_scrape/movies_df.csv: fitxer csv checkpoint.
 
 1. **Context. Explicar en quin context s'ha recol・lectat la informació. Explicar per que el lloc web triat proporciona aquesta informació**
 
-L’objectiu de la nostre pràctica és poder recollir programàticament un llistat de les pel·lícules disponibles en la cartellera de les sales de l’estat espanyol. Com a font de dades triem la secció de cartellera del portal FilmAffinity (www.filmaffinity.com) 
+L’objectiu de la nostra pràctica és poder recollir programàticament un llistat de les pel·lícules disponibles en la cartellera de les sales de l’estat espanyol. Com a font de dades triem la secció de cartellera del portal FilmAffinity (www.filmaffinity.com) 
 
 Aquest portal no diposa de cap API de la qual en tinguem coneixement, de forma que és un bon cas d’ús per aplicar web scraping.
 
