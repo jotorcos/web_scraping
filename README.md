@@ -72,7 +72,7 @@ Cal destacar que no hi ha cap menció en les condicions d’ús del portal (http
 
 7. **Inspiració. Explicar per que és interessant aquest conjunt de dades i quines preguntes es pretenen respondre**
 
-Aquest conjunt de dades és interessant ja que permet capturar la informacin de la cartellera en un moment donat en el temps, i permetre’n la seva anàlisi posterior. Un cop generat el dataset, també és possible creuar la informació extreta de FilmAffinity amb la informació proporcionada per altres portals similars (e.g www.imdb.com) usant tècniques s’scraping o APIs, permetent completar la informació o fitxa de cada pel·lícula.   
+Aquest conjunt de dades és interessant ja que permet capturar la informació de la cartellera en un moment donat en el temps, i permetre’n la seva anàlisi posterior. Un cop generat el dataset, també és possible creuar la informació extreta de FilmAffinity amb la informació proporcionada per altres portals similars (e.g www.imdb.com) usant tècniques s’scraping o APIs, permetent completar la informació o fitxa de cada pel·lícula.   
 
 Cal remarcar de nou que aquest portal no disposa de cap API per la qual cosa usar tècniques de web scraping ens sembla particularment adequat.
 
