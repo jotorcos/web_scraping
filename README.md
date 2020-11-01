@@ -95,3 +95,11 @@ El dataset resultant s'ha publicat a Zenodo amb el següent DOI:
 10.5281/zenodo.4165158
 
 En el dataset els autors apareixen com jotorcos i obr-uoc, usant els usuaris guthub dels integrants de les pràctiques.
+
+## Contribucions
+
+|Contribucions|Signa|
+|---|---|
+|Recerca prèvia|Josep Tormo Costa i Oriol Bardés Robles|
+|Redacció de les respostes|Josep Tormo Costa i Oriol Bardés Robles|
+|Desenvolupament codi|Josep Tormo Costa i Oriol Bardés Robles|
