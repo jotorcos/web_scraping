@@ -66,7 +66,7 @@ Les dades s'han recollit usant les capacitats del paquet Selenium de Python per 
 
 6. **Agraïments. Presentar el propietari del conjunt de dades. Es necessari incloure cites de recerca o anàlisis anteriors (si n'hi ha).**
 
-El conjunt de dades s’ha obtingut del portal www.filmaffinity.com,que és un lloc web espanyol dedicat al món del cinema. Va ser creat an Madrid al maig de 2002 pel crític de cinema Pablo Kurt Verdú Schumann i pel programador Daniel Nicolás.
+El conjunt de dades s’ha obtingut del portal www.filmaffinity.com, que és un lloc web espanyol dedicat al món del cinema. Va ser creat an Madrid al maig de 2002 pel crític de cinema Pablo Kurt Verdú Schumann i pel programador Daniel Nicolás.
 
 Cal destacar que no hi ha cap menció en les condicions d’ús del portal (https://www.filmaffinity.com/es/private.php) a pràctiques de web scraping.  
 
